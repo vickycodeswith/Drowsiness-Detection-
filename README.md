@@ -11,8 +11,6 @@
 
 > A **real-time driver drowsiness detection system** that uses **Haar Cascade classifiers** to locate the driver's eyes in every webcam frame and a **custom-trained CNN** (`cnnCat2.h5`) to classify each eye as **Open** or **Closed** — sounding a `pygame` alarm when drowsiness is detected.
 
-[🔙 Back to Main Repository](https://github.com/shsarv/Machine-Learning-Projects)
-
 </div>
 
 ---
@@ -306,8 +304,6 @@ python drowsinessdetection.py
 ---
 
 <div align="center">
-
-Part of the [Machine Learning Projects](https://github.com/shsarv/Machine-Learning-Projects) collection by [Sarvesh Kumar Sharma](https://github.com/shsarv)
 
 ⭐ Star the main repo if this helped you!
 
